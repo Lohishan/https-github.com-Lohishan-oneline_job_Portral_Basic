@@ -1,0 +1,38 @@
+An online job portal is a digital platform that connects job seekers with potential employers. 
+These platforms have become increasingly popular and convenient in recent years due to their ability to streamline the job search and hiring processes.
+Job seekers can search for job openings, upload their resumes, and apply for positions through these portals. 
+On the other hand, employers can post job listings, review applications, and manage the hiring process using these platforms.
+
+Here are some common features and components of online job portals:
+  1.Job Listings: Employers can post detailed job descriptions, including job titles, responsibilities, qualifications, and other relevant information. 
+    Job seekers can then search and filter through these listings to find suitable opportunities.
+ 
+  2.Resume Upload: Job seekers can create profiles on the portal and upload their resumes, making it easy for them to apply for jobs with a single click.
+  
+  3.Application Tracking: Both employers and job seekers can track the progress of applications. 
+    Employers can review received applications and manage them through various stages of the hiring process.
+
+  4.Search and Filters: Job seekers can use search filters to narrow down their job searches based on factors such as location, industry, job type, salary range, and more.
+
+  5.Profile Creation: Job seekers typically create profiles on these portals, where they can showcase their skills, experience, education, and other relevant information to attract potential employers.
+
+  6.Notifications: Job seekers can often set up email or mobile notifications to receive updates about new job postings that match their preferences.
+
+  7.Communication: Some portals provide communication tools that allow employers and job seekers to interact directly, discussing job details, requirements, and the application process.
+
+  8.Company Profiles: Employers can create profiles that showcase their company's culture, values, mission, and other relevant information to attract potential candidates.
+
+  9.Application Management: Employers can review applications, shortlist candidates, and schedule interviews through the portal.
+
+  10.Privacy and Security: Online job portals typically take measures to protect the privacy of both job seekers and employers, ensuring that personal information is kept confidential.
+
+  11.Career Resources: Some portals offer additional resources, such as interview tips, resume writing advice, and career development content to help job seekers improve their chances of success.
+
+Examples of popular online job portals include
+1.LinkedIn
+2.Indeed
+3.Glassdoor
+4.Monster
+5.CareerBuilder. 
+These platforms vary in terms of their focus, features, and user interfaces, but they all aim to facilitate the connection between job seekers and employers in a digital and efficient manner.
+
